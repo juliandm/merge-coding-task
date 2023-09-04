@@ -8,7 +8,7 @@ Die Laufzeit ist O(n \* log(n)), wobei n die Anzahl der Intervalle ist. DIe node
 
 ### Robustheit:
 
-// TODO
+Der Code wird loggen wenn ein falscher wert im input ist aber nicht abbrechen. Das kann angepasst werden je nach belieben.
 
 ### Speicherverbrauch:
 
